@@ -17,7 +17,7 @@ A mod for Discord's mobile apps.
 1. Go to Settings > General and enable Developer Settings.
 1. Clone the repo:
     ```
-    git clone https://github.com/pyoncord/Bunny
+    git clone https://github.com/Sopitive/Spectra
     ```
 1. Install dependencies:
     ```
